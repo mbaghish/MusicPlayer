@@ -1,5 +1,5 @@
 # MusicPlayer
-@Auther Mohammad Baghishani
+@Author Mohammad Baghishani
 ## Task
 Create a program that manages pieces of music.
 Additional information such as title, artist, genre, etc. should be kept for each piece of music.
